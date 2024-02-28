@@ -1,0 +1,36 @@
+# hosts
+cdp.cloud.unity3d.com 34.107.172.168
+
+cd.lyhepj.cn 192.168.123.150
+static.lyhepj.cn 192.168.123.1
+dns.test.com 1.1.1.1
+
+
+#akamai.cdn自定义IP
+
+#-------microsoft
+full:catalog.gamepass.com 23.43.165.18
+full:download.xbox.com 23.43.165.18
+domain:video.microsoft.com 23.43.165.18
+
+#-------nintendo
+domain:hac.lp1.d4c.nintendo.net 23.43.165.18
+domain:hac.lp1.eshop.nintendo.net 23.43.165.18
+domain:hac.lp1.dragons.nintendo.net 23.43.165.18
+domain:cdn.nintendo.net 23.43.165.18
+
+#-----epic
+domain:ak.epicgames.com 23.43.165.18
+full:cdn2.epicgames.com 23.43.165.18
+full:shared-static-prod.epicgames.com 23.43.165.18
+
+#------riotgames
+domain:dyn.riotcdn.net 23.43.165.18
+
+#------steam
+domain:akamai.steamstatic.com 23.43.165.18
+
+#------other
+domain:akamai.net 23.43.165.18
+domain:akamaihd.net 23.43.165.18
+domain:akamaized.net 23.43.165.18#
